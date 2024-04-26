@@ -1,0 +1,7 @@
+we need 2 table of values
+one with n and another with nsquare
+the values need to be table form
+
+
+we need a for loop for the table 
+
