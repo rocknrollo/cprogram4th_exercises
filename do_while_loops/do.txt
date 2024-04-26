@@ -1,0 +1,12 @@
+the do program
+
+//the structure of a do while loop
+do
+    program statement or statements 
+while (loop expressions)
+
+the program statement is executed first then the loop expression
+if the expression is true the program statement is looped again
+the loop is terminated when the expression returns FALSE
+
+guarantees the body of the loop is executed at least once.

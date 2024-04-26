@@ -1,0 +1,30 @@
+the break statement causes the program to immediately exit
+subsequent statement in the loop are skipped
+
+if a break is executed from a set of nested loops only the inner most loop with the
+break statement is terminated.
+
+format
+
+break;
+
+The continue Statement
+The continue statement is similar to the break statement except it doesn’t
+cause the loop to terminate. Rather, as its name implies, this statement causes
+the loop in which it is executed to be continued. At the point that the
+continue statement is executed, any statements in the loop that appear after
+the continue statement are automatically skipped. Execution of the loop
+otherwise continues as normal.
+The continue statement is most often used to bypass a group of statements
+inside a loop based upon some condition, but to otherwise continue execution of
+the loop. The format of the continue statement is simply
+continue;
+Don’t use the break or continue statements until you become very familiar
+with writing program loops and gracefully exiting from them. These statements
+are too easy to abuse and can result in programs that are hard to follow.
+Now that you are familiar with all the basic looping constructs provided by the
+C language, you are ready to learn about another class of language statements
+that enable you to make decisions during the execution of a program. These
+decision-making capabilities are described in detail in Chapter 5, “Making
+Decisions.” First, try the exercises that follow to be certain you understand how
+to work with loops in C.
