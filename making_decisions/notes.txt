@@ -14,3 +14,13 @@ if expression is met program statment is run
 
 if-else construct
 
+if (expression)
+
+    program statement 1
+else
+    program statement2
+
+only one of the statements can be evaluated not both
+
+compound rational tests
+
