@@ -24,3 +24,40 @@ only one of the statements can be evaluated not both
 
 compound rational tests
 
+and or operators
+&& ||
+
+else if statements and nested if statements
+
+if ( expression 1 )
+program statement 1
+else if ( expression 2 )
+program statement 2
+else
+program statement 3
+
+Switch statement
+
+switch (expression)
+{
+    case value1:
+        program statement
+        program statement
+            ...
+        break;
+    case value2:
+        program statement
+        program statement
+            ...
+        break;
+    case valuen:
+        program statement
+        program statement
+            ...
+        break;
+    default:
+        program statement
+        program statement
+            ...
+        break;    
+}
