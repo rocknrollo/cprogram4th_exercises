@@ -1,0 +1,16 @@
+computer program relies on its ability to make decisions. 
+
+3 decision points to learn
+if statements
+the switch statement 
+conditional operator
+
+if statement
+
+if (expression)
+    program statement
+
+if expression is met program statment is run
+
+if-else construct
+
