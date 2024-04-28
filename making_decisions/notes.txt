@@ -61,3 +61,14 @@ switch (expression)
             ...
         break;    
 }
+
+prime numbers program 5_10
+
+the value of p is initially 2;
+if p less then or equal to 50 isprime = 1;
+and the for loop is also executed.
+
+d = 2 if d is less then p and the p%d ==0 isprime =0
+
+if is prime is not 0 print the value of p.
+

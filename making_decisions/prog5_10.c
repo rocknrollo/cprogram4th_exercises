@@ -7,7 +7,7 @@ int main (void)
     int p, d;
     _Bool isPrime;
 
-    for(d = 2; p < 50; ++p)
+    for(p = 2; p < 50; ++p)
     {
         isPrime = 1;
 
@@ -17,11 +17,13 @@ int main (void)
             {
                 isPrime = 0;
             }
-            if (isPrime !=0)
+        }
+        
+        if (isPrime !=0)
             {
                 printf("%i ", p);
             }
-        }
+        
         
     }
     printf("\n");
