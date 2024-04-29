@@ -1,0 +1,21 @@
+things covered in this chapter
+
+-setting up simple arrays
+-initializing arrays 
+-working with character arrays 
+-using the const keyword
+-implementing multidimensional arrays
+-creating variable-length arrays
+
+defining an arrays
+
+an array is not a single value but a set of values.
+each element in the set can be referenced by means of an index number or subscript.
+eg grades[5] - refers to element number 5 in array grades
+
+arrays are zero indexed so grades[0] is the first element in grades therefore grades[5]
+is actually the 6th element.
+
+assigning an array; grades[5] = 50; array named grades at element 5 has a value of 50.
+
+
