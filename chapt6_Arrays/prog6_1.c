@@ -12,7 +12,7 @@ int main (void)
     values[9] = values[5] / 10;
     --values[2];
 
-    for( index = 0; index < 0; ++index)
+    for( index = 0; index < 10; ++index)
     {
         printf("values[%i] = %i\n", index, values[index]);
     }

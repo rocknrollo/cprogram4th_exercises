@@ -19,3 +19,6 @@ is actually the 6th element.
 assigning an array; grades[5] = 50; array named grades at element 5 has a value of 50.
 
 
+page 131 using arrays as counters
+
+
